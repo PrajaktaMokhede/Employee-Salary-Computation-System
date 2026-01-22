@@ -1,0 +1,52 @@
+Employee 1:
+    Enter 1st employee name:  prajakta
+    Enter your salary 60000
+    House Rent Allowance=  3840.0
+    Dearness Allowance=  3180.0
+    Provident Fund=  2100.0
+    Gross Salary= 69120.0
+    Net Salary=  67020.0
+    High Salary
+
+Employee 2:
+    Enter 2nd employee name:  riya
+    Enter your salary 55000
+    House Rent Allowance=  3520.0
+    Dearness Allowance=  2915.0
+    Provident Fund=  1925.0
+    Gross Salary= 63360.0
+    Net Salary= 61435.0
+    High Salary
+
+Employee 3:
+    Enter 3rd employee name:  sanika
+    Enter your salary 50000
+    House Rent Allowance=  3200.0
+    Dearness Allowance=  2650.0
+    Provident Fund=  1750.0
+    Gross Salary= 57600.0
+    Net Salary= 55850.0 
+    High Salary
+
+  
+Employee 4:
+    Enter 4th employee name:  Nisha
+    Enter your salary 63000
+    House Rent Allowance=  4032.0
+    Dearness Allowance=  3339.0
+    Provident Fund=  2205.0
+    Gross Salary= 72576.0
+    Net Salary= 70371.0 
+    High Salary
+
+Employee 5:
+    Enter 5th employee name:  sakshi
+    Enter your salary 45000
+    House Rent Allowance=  2880.0
+    Dearness Allowance=  2385.0
+    Provident Fund=  1575.0
+    Gross Salary= 51840.0
+    Net Salary= 50265.0
+    Medium Salary
+
+
